@@ -16,6 +16,7 @@
     "csv-write-stream": "^2.0.0",
     "once": "^1.4.0",
     "request": "^2.88.0",
+    "then-sleep": "^1.0.1",
     "through2": "^3.0.1"
   }
 }
